@@ -1,0 +1,4 @@
+[client]
+user = "USUARIO DE ACESSO AO BANCO"
+password = "SENHA DE ACESSO AO BANCO"
+host = "SERVIDOR DE BANCO"
